@@ -542,3 +542,4 @@ export const route = [
         permission: Permissions.MANAGE_LANGUAGES,
     },
 ];
+ 
